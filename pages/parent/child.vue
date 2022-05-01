@@ -1,0 +1,1 @@
+<template>child page</template>
