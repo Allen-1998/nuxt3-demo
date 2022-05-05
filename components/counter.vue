@@ -1,8 +1,8 @@
 <template>
   <div>
-    <span @click="decrement"> - </span>
-    <span>{{ counter }}</span>
-    <span @click="increment"> + </span>
+    <span class="btn" @click="decrement"> - </span>
+    <span class="ml10 mr10">{{ counter }}</span>
+    <span class="btn" @click="increment"> + </span>
   </div>
 </template>
 
